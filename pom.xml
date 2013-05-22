@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>dk.rohdef.eclipse.busterplugin</groupId>
   <artifactId>eclipsebusterplugin</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>1.0.0</version>
   <packaging>pom</packaging>
   <name>BusterJS plugin for eclipse</name>
   <description>Not much (yet!)</description>
@@ -11,6 +11,7 @@
   <modules>
     <module>../dk.rohdef.eclipse.buster</module>
     <module>../dk.rohdef.eclipse.buster.feature</module>
+    <module>../dk.rohdef.eclipse.buster.test</module>
 <!--     <module>../dk.rohdef.eclipse.buster.p2updatesite</module> -->
   </modules>
 
