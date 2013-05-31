@@ -11,7 +11,11 @@ install maven 3 and run
     mvn compile
 
 ## Links to other repositories
+
 [dk.rohdef.eclipse.buster - The actual plugin](https://github.com/rohdef/dk.rohdef.eclipse.buster)
+
 [dk.rohdef.eclipse.buster.feature - Setup for eclipse updata manager](https://github.com/rohdef/dk.rohdef.eclipse.buster.feature)
+
 [dk.rohdef.eclipse.buster.test - Tests for the plugin](https://github.com/rohdef/dk.rohdef.eclipse.buster.test)
+
 [dk.rohdef.eclipse.buster.master - The Maven master project, just used for the build system](https://github.com/rohdef/dk.rohdef.eclipse.buster.master)
